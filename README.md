@@ -55,5 +55,4 @@ Exploratory Data Analysis (EDA) on **New York Airbnb** listings to uncover patte
 
 This EDA project provides valuable insights into the New York Airbnb landscape, guiding both hosts and guests. Future steps include **predictive modeling** for more in-depth analysis.
 
-
-![Dashboard Screenshot] https://github.com/sh1ro47/NYC-Airbnb-2024-Data-Insights_EDA/blob/main/airbnb.avif
+ 
