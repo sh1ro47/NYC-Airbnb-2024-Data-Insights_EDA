@@ -6,7 +6,7 @@
 
 Exploratory Data Analysis (EDA) on **New York Airbnb** listings to uncover patterns and insights. We leverage **Pandas, Numpy, Matplotlib,** and **Seaborn** for data cleaning, visualization, and analysis.
 
-[(https://github.com/user-attachments/assets/41d4aac3-fbba-49a5-a5f1-2045c7cee52c)](https://github.com/sh1ro47/NYC-Airbnb-2024-Data-Insights_EDA/blob/main/images.jpeg)
+![Dashboard Screenshot](https://github.com/sh1ro47/NYC-Airbnb-2024-Data-Insights_EDA/blob/main/images.jpeg)
 
 ### 🎯 Objectives
 
