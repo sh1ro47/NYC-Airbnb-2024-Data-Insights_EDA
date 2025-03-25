@@ -13,6 +13,8 @@ Exploratory Data Analysis (EDA) on **New York Airbnb** listings to uncover patte
 2. Explore **host behavior** and listing trends.
 3. Identify **outliers** in pricing.
 4. Provide actionable insights for **guests** and **hosts**.
+
+   
 ![Dashboard Screenshot](https://github.com/sh1ro47/NYC-Airbnb-2024-Data-Insights_EDA/blob/main/images.jpeg)
 ## 📊 Dataset
 
